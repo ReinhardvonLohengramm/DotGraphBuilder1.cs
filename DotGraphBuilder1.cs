@@ -1,4 +1,5 @@
 // Вставьте сюда финальное содержимое файла DotGraphBuilder.cs
+//
 using System;
 using System.Globalization;
 using System.Linq;
